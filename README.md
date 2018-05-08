@@ -1,5 +1,5 @@
 # 4330FinalProject
-Comparing Java and C++
+Comparing Java and C++  
 By: Tess McCorkle
 
 [History Documentation](LanguagePurposes.md)  
